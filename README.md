@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, seja bem vindo ao meu perfil!!
 
-<!--
-**profegislaine/Profegislaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu n ome é Gislaine Pereira
 
-Here are some ideas to get you started:
+Sou professora de Pensamento Computacional!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando na Alura.
+
+Utlizo esse espaço para compartilhar meu projetos do JavaScript e Github!
+
+![](https://tenor.com/pt-BR/view/huh-cat-huh-m4rtin-huh-huh-meme-what-cat-gif-8048702078111616715)
+
+
+
